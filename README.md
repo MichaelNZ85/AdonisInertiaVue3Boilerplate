@@ -1,6 +1,6 @@
 ## Adonis / Inertia / Vue 3 Boilerplate
 
-This project serves as a starter project for building web apps with [Adonis](http://adonisjs.com) as a backend, [Vue 3](http://vuejs.org) as a frontend and [Inertia](https://inertiajs.com) linking the two together without the need for an API.
+This project serves as a starter project for building web apps with [Adonis](http://adonisjs.com) as a backend, [Vue 3](http://vuejs.org) as a frontend and [Inertia](https://inertiajs.com) linking the two together without the need for an API. Webpack and Vue Loader are used to compile the frontend assets.
 
 I am indebted to [Adocasts](https://adocasts.com/lessons/adding-inertiajs-to-a-new-adonisjs-project) for their tutorial which I used to set up this boilerplate. If you want to learn Adonis, then you should check out their site.
 
